@@ -1,4 +1,4 @@
-[![LGTM](https://img.shields.io/badge/lgtm-jultty-purple?style=for-the-badge&logo=lgtm)](https://lgtm.com/people/jultty) [![wakatime](https://wakatime.com/badge/user/ee7c148b-ee2b-40cf-85c0-50caf36a4dbe.svg?style=for-the-badge)](https://wakatime.com/@ee7c148b-ee2b-40cf-85c0-50caf36a4dbe)
+[![LGTM](https://img.shields.io/badge/lgtm-jultty-purple?style=for-the-badge&logo=lgtm)](https://lgtm.com/people/jultty) [![libraries.io](https://img.shields.io/badge/Libraries.io-jultty-orange?style=for-the-badge&logo=librariesdotio&logoColor=white)](https://libraries.io/github/jultty) [![wakatime](https://wakatime.com/badge/user/ee7c148b-ee2b-40cf-85c0-50caf36a4dbe.svg?style=for-the-badge)](https://wakatime.com/@jultty)
 
 ## Destaques
 
