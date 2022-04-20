@@ -2,8 +2,8 @@
 
 ## Destaques
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jultty&repo=jultty.github.io&theme=tokyonight&text_color=D0D0D0)](https://github.com/jultty/jultty.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jultty&repo=semtec-api&theme=tokyonight&text_color=D0D0D0)](https://github.com/jultty/semtec-api)
+<a href="https://github.com/jultty/jultty.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jultty&repo=jultty.github.io&theme=tokyonight&text_color=D0D0D0" align="top"></a>&nbsp;&nbsp;
+<a href="https://github.com/jultty/codatex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jultty&repo=codatex&theme=tokyonight&text_color=D0D0D0" align="top"></a>
 
 ## Estatísticas
 
