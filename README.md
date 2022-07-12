@@ -1,6 +1,6 @@
 <br><br>
 <div align="center">
-  <h1><a href="https://newen.me/jlt">jultty</a></h1>
+  <h1><a href="https://jultty.github.io">jultty</a></h1>
   <p></p>
   <a href="https://lgtm.com/people/jultty">
     <img src="https://img.shields.io/badge/lgtm-jultty-purple?style=for-the-badge&logo=lgtm">
