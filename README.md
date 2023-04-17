@@ -11,4 +11,10 @@
   <a href="https://wakatime.com/@jultty">
     <img src="https://wakatime.com/badge/user/ee7c148b-ee2b-40cf-85c0-50caf36a4dbe.svg?style=for-the-badge">
   </a> 
+
+&nbsp; <br/>
+
+[![stats-dark](https://github-readme-stats.vercel.app/api?username=jultty&count_private=true&show_icons=true&theme=radical#gh-dark-mode-only)](https://wakatime.com/@jultty) &nbsp; &nbsp;
+[![lang-stats-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=jultty&layout=compact&count_private=true&theme=radical#gh-dark-mode-only)](https://wakatime.com/@jultty)
+
 </div>
