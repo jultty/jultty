@@ -1,6 +1,6 @@
 <br><br>
 <div align="center">
-  <h1><a href="https://jultty.github.io">jultty</a></h1>
+  <h1><a href="https://jutty.dev">jutty.dev</a></h1>
   <p></p>
 &nbsp; <br/>  
 
