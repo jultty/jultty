@@ -9,5 +9,5 @@
 
 <div align="left"><strong>Languages used over the last 7 days:</strong>
 
-[![wakatime-stats](https://wakatime.com/share/@jultty/2382bc30-8b2a-4f83-a86b-42dec84a30e4.svg)](https://wakatime.com/@jultty)
+[![wakatime-stats](https://wakatime.com/share/@jutty/8fd4fa13-2ee8-42b9-a3d9-ff44984dc2ea.svg)](https://wakatime.com/@jutty)
 </div>
